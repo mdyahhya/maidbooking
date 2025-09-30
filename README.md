@@ -1,4 +1,4 @@
-Maidly-Online Maid Booking — PWA + Supabase : Live on maidly.netlify.app
+Maidly-Online Maid Booking — PWA + Supabase : Site Live at https://maidly.netlify.app/
 A production-style maid booking platform with customer and maid roles, real-time booking lifecycle, and installable PWA experience for Android and Windows, built with vanilla HTML/CSS/JS and Supabase for authentication and data.
 
 Features
