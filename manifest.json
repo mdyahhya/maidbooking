@@ -1,6 +1,6 @@
 {
-    "name": "MaidBook - Online Maid Booking Service",
-    "short_name": "MaidBook",
+    "name": "Maidly - Online Maid Booking Service",
+    "short_name": "Maidly",
     "description": "Connect with trusted, experienced maids in your area. Book instantly and get professional cleaning services delivered to your doorstep.",
     "start_url": "/",
     "display": "standalone",
