@@ -79,7 +79,7 @@ Tech
 HTML, CSS, JavaScript (vanilla) + Supabase JS client + Service Worker/PWA APIs.
 
 Author
-Yahya Mundewadi — Developer and maintainer of One Day Maid.
+Yahya Mundewadi — Developer and maintainer of Maidly
 
 License
 Add LICENSE if open-sourcing; otherwise mark “All rights reserved”
